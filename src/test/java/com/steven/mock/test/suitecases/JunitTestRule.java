@@ -8,11 +8,6 @@ import org.junit.Rule;
  *
  */
 public class JunitTestRule {
-	@Rule
-	public MyRule rule =new MyRule();
-}
-
-class MyRule {
 	
 	
 }
