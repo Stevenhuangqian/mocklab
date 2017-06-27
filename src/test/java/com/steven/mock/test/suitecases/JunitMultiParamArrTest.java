@@ -13,7 +13,7 @@ import org.junit.runners.Parameterized.Parameters;
 
 /**
  * 多套测试数据注入
- * @author qianhuang
+ * @author 谦黄
  *
  */
 @RunWith(Parameterized.class)
