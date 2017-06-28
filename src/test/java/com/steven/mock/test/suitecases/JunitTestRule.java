@@ -4,7 +4,7 @@ import org.junit.Rule;
 
 /**
  * @rule注解说明demo
- * @author Administrator
+ * @author 黄谦
  *
  */
 public class JunitTestRule {
